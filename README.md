@@ -94,7 +94,4 @@ Chip_Level_Cybersecurity_Project/
 
 ---
 
-## 📫 Contact
-📧 s.s.bommineni@gmail.com  
-💼 [LinkedIn](#) (add your profile link)  
-📂 [Portfolio](#) (optional)
+
